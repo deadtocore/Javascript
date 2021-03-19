@@ -132,13 +132,3 @@ if(true === 1) {
 } else {
     console.log("true and 1 are not equal");
 }
-
-
-
-
-
-
-
-
-
-
